@@ -1,6 +1,6 @@
 # yami
 
-A App that represent the N&&N vision of how a personal finance App should work
+A App that represent the N&N vision of how a personal finance App should work
 
 ## Getting Started
 
