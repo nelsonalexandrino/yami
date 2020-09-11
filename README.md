@@ -1,6 +1,6 @@
 # yami
 
-A new Flutter project.
+A App that represent the N&&N vision of how a personal finance App should work
 
 ## Getting Started
 
